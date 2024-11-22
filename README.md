@@ -1,6 +1,9 @@
 # Azure-Devops-CICD-Project
-eveloped and deployed a complete end-to-end pipeline for a Node.js application.
+Developed and deployed a complete end-to-end pipeline for a Node.js application.
+
+
 Steps to set the infrastructure
+
 Login to VSCode or any other IDE of your choice
 
 Run the below commands to download the application code
@@ -39,4 +42,8 @@ A step can be a task or script and is the smallest building block of a pipeline.
 A task is a pre-packaged script that performs an action, such as invoking a REST API or publishing a build artifact.
 An artifact is a collection of files or packages published by a run.
 ![image](https://github.com/user-attachments/assets/f814829b-17b9-4c56-8deb-4aa6e1838a1c)
+
+In this Project I used self hosted agent to run the bulid.
+
+
 
