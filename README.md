@@ -25,7 +25,8 @@ image
 Note: You must set the app settings WEBSITE_DYNAMIC_CACHE=0 and WEBSITE_LOCAL_CACHE_OPTION=Never to disable all file caching
 
 Structure of Azure DevOps build Pipeline
-image
+![image](https://github.com/user-attachments/assets/ff813306-2826-4927-8831-113b6d742adb)
+
 
 A trigger tells a Pipeline to run. It could be CI or Scheduled, manual(if not specified), or after another build finishes.
 A pipeline is made up of one or more stages. A pipeline can deploy to one or more environments.
