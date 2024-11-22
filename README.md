@@ -20,7 +20,8 @@ Implement the build pipeline using the classic editor
 
 Understand the use of service connection and service principal
 
-image
+![image](https://github.com/user-attachments/assets/01631c30-e834-460b-8c14-69ff2cea4c74)
+
 
 Note: You must set the app settings WEBSITE_DYNAMIC_CACHE=0 and WEBSITE_LOCAL_CACHE_OPTION=Never to disable all file caching
 
@@ -36,4 +37,5 @@ Each agent runs a job that contains one or more steps.
 A step can be a task or script and is the smallest building block of a pipeline.
 A task is a pre-packaged script that performs an action, such as invoking a REST API or publishing a build artifact.
 An artifact is a collection of files or packages published by a run.
-image
+![image](https://github.com/user-attachments/assets/f814829b-17b9-4c56-8deb-4aa6e1838a1c)
+
