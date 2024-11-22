@@ -26,7 +26,8 @@ Understand the use of service connection and service principal
 Note: You must set the app settings WEBSITE_DYNAMIC_CACHE=0 and WEBSITE_LOCAL_CACHE_OPTION=Never to disable all file caching
 
 Structure of Azure DevOps build Pipeline
-![image](https://github.com/user-attachments/assets/ff813306-2826-4927-8831-113b6d742adb)
+![image](https://github.com/user-attachments/assets/9b6cba33-92a3-4f6b-b0c2-2e7dc6c92f13)
+
 
 
 A trigger tells a Pipeline to run. It could be CI or Scheduled, manual(if not specified), or after another build finishes.
